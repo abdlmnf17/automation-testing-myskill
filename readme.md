@@ -37,6 +37,6 @@ npx cypress open
 
 2. In the Cypress GUI, navigate to the "e23 test" folder.
 3. Choose "electron browser" from the available browsers.
-4. Click on `myskill_test.spec.js` to run the test.
+4. Click on `spec.cy.js` to run the test.
 
 Ensure all dependencies and configurations are set up before running the tests. Happy testing!
