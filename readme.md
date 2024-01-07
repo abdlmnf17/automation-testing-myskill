@@ -1,3 +1,5 @@
+Certainly, here's the improved and organized version:
+
 # MySkill Automation Test
 
 This repository contains automated tests for MySkill using Cypress.
@@ -8,24 +10,33 @@ Before running the automation test, ensure you have Node.js installed. If not, d
 
 ```bash
 npm install
-Test Data Setup
-Open the folder cypress/fixtures/.
-Copy user(example).json and rename it to user.json.
-Running the Automation Test
-Terminal
+```
+
+## Test Data Setup
+
+1. Open the folder `cypress/fixtures/`.
+2. Copy `user(example).json` and rename it to `user.json`.
+
+## Running the Automation Test
+
+### Terminal
 
 Run the automation test in the terminal:
 
-bash
-Copy code
+```bash
 npm run test
-Cypress GUI
-Open Cypress in the browser:
-bash
-Copy code
-npx cypress open
-In the Cypress GUI, navigate to the "e23 test" folder.
-Choose "electron browser" from the available browsers.
-Click on myskill_test.spec.js to run the test.
-Ensure all dependencies and configurations are set up before running the tests. Happy testing!
+```
 
+### Cypress GUI
+
+1. Open Cypress in the browser:
+
+```bash
+npx cypress open
+```
+
+2. In the Cypress GUI, navigate to the "e23 test" folder.
+3. Choose "electron browser" from the available browsers.
+4. Click on `myskill_test.spec.js` to run the test.
+
+Ensure all dependencies and configurations are set up before running the tests. Happy testing!
