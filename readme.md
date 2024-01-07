@@ -1,8 +1,8 @@
-Certainly, here's the improved and organized version:
 
-# MySkill Automation Test
 
-This repository contains automated tests for MySkill using Cypress.
+# MySkill Automation Test 
+
+This repository contains  automated tests for MySkill login feature using Cypress.
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install
 ## Test Data Setup
 
 1. Open the folder `cypress/fixtures/`.
-2. Copy `user(example).json` and rename it to `user.json`.
+2. Copy `user(example).json` and rename it to `user.json` and change your data login.
 
 ## Running the Automation Test
 
