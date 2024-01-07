@@ -40,3 +40,10 @@ npx cypress open
 4. Click on `spec.cy.js` to run the test.
 
 Ensure all dependencies and configurations are set up before running the tests. Happy testing!
+
+## Screenshots
+
+![Terminal Logo](cypress/screenshots/Screenshot%20(429).png) <br/>
+![GUI Logo](cypress/screenshots/Screenshot%20(430.png)) <br/>
+
+
