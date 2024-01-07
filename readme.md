@@ -44,6 +44,6 @@ Ensure all dependencies and configurations are set up before running the tests. 
 ## Screenshots
 
 ![Terminal Logo](cypress/screenshots/Screenshot%20(429).png) <br/>
-![GUI Logo](cypress/screenshots/Screenshot%20(430.png)) <br/>
+![GUI Logo](cypress/screenshots/Screenshot%20(430).png)<br/>
 
 
